@@ -5,6 +5,7 @@ import FlagsQuiz from './pages/FlagsQuiz.js';
 import WorldHistory from './pages/WorldHistory.js';
 import MusicQuiz from './pages/MusicQuiz.js';
 
+
 function App() {
   return (
     <div className="App">
