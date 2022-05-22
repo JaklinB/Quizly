@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.worldHistory{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.historyBtn{
+    margin: 1%;
+    width: 400px;
+    cursor: pointer;
+    background-color: #ffe54c;
+    border: 1px solid black;
+    color: black;
+    font-size: 15px;
+}
+
+.question{
+    color: black;
+    text-shadow: 2px 2px #ffe54c;
+    font-size: 30px;
+    margin: 5%;
+}
